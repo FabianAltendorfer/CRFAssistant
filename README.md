@@ -12,4 +12,4 @@ Those stock tickers will be sent to Yahoo Finance to retrieve financial informat
 
 The final result can be seen in this Youtube-Video: https://www.youtube.com/watch?v=-ENA95SvR7I&t=55s
 
-This project was published under an MIT-License
+This project was published under an MIT-License.
