@@ -13,6 +13,6 @@ These stock tickers are subsequently sent to Yahoo Finance to retrieve financial
 You can view the final result in this YouTube video: https://www.youtube.com/watch?v=-ENA95SvR7I&t=55s
 
 <b>Update January 2024</b>
-Unfortunately, OpenAI does no longer support GPT3-Finetunes and so is also my finetuned-model no longer accessible. Because of that, you need to finetune your own (OpenAI)-Model of choice. To do that, I've added an example dataset for finetuning named "Finetuning-Dataset".
+Unfortunately, OpenAI does no longer support GPT3-Finetunes and so is also my finetuned-model no longer accessible. Because of that, you need to finetune your own (OpenAI)-Model of choice. To do that, I've added an example dataset for finetuning named "finetune.jsonl".
 
 This project is published under the MIT License.
